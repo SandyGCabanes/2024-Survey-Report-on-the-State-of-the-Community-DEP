@@ -1,10 +1,9 @@
 # Data Engineering Pilipinas State of the Community Survey 2024
-## Tableau, Python, Excel, Power Query, Google Looker Studio, Gamma.io
+## Tableau, Python, Excel, Power Query, Google Looker Studio, Gamma.io, Clipchamp 
 
 This [Tableau report](https://public.tableau.com/app/profile/sandy.g.cabanes/viz/survey0309/Home) contains the results of the online survey: State of the Community 2024, conducted among members of the Data Engineering Pilipinas Facebook group.
 
 ## Recording of my presentation of the results to the community: [youtube link](https://www.youtube.com/watch?v=ZalWXSVVasM&t=1463s)
-![youtube](youtube_screenshot.png)
 
 ## Purpose:
 To have a baseline understanding of demographics, work topics, general tools and DEP community concerns. Note that the questiions are tailored towards data-related topics such as data engineering and data analytics.
@@ -27,10 +26,11 @@ To have a baseline understanding of demographics, work topics, general tools and
 - ![Google Looker Studio screenshot](Google%20Looker%20Studio%20toplines.PNG)
 - Final report [here](https://public.tableau.com/app/profile/sandy.g.cabanes/viz/survey0309/Home)
 	- Tableau, with joins/ relationships for multiple-response questions
-- Embedded gif:  
-	- gif created using my [python code](https://github.com/SandyGCabanes/mp4_to_gif)
+- Embedded gif:
+  	- video screen recording edited with Clipchamp
+	- gif created using [python code](https://github.com/SandyGCabanes/mp4_to_gif)
 	- gif embedded in Tableau housed here [github](https://github.com/SandyGCabanes/2024survey_homepage)
-- Website creation:  Gamma.io app [Website here] (https://gamma.app/docs/DEP-SOTC-Survey-2024-o7wjaq3yjcz23yq?mode=doc)
+- Website creation:  Gamma.io app [Website of report here] (https://gamma.app/docs/DEP-SOTC-Survey-2024-o7wjaq3yjcz23yq?mode=doc)
 
 ## Total respondents: n772
 
