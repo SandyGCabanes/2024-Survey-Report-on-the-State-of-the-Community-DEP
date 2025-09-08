@@ -8,6 +8,13 @@ This [Tableau report](https://public.tableau.com/app/profile/sandy.g.cabanes/viz
 ## Purpose:
 To have a baseline understanding of demographics, work topics, general tools and DEP community concerns. Note that the questiions are tailored towards data-related topics such as data engineering and data analytics.
 
+## Action from Results:
+- help the community answer common questions on job opportunities, skills, salaries related to data-related careers
+- help guide future programs and initiatives
+- publish synthetic dataset matching the data profiles, to protect privacy
+- plan to do this annually
+
+
 ## Tech stack:
 - Google Forms and Sheets for Data collection
 - Data processing 
@@ -25,11 +32,5 @@ To have a baseline understanding of demographics, work topics, general tools and
 - Website creation:  Gamma.io app [Website here] (https://gamma.app/docs/DEP-SOTC-Survey-2024-o7wjaq3yjcz23yq?mode=doc)
 
 ## Total respondents: n772
-
-## Action from Results:
-- help the community answer common questions on job opportunities, skills, salaries related to data-related careers
-- help guide future programs and initiatives
-- publish synthetic dataset matching the data profiles, to protect privacy
-- plan to do this annually
 
 ## Dashboard format:  Tableau
