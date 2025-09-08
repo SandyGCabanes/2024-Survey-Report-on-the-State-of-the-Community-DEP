@@ -6,13 +6,13 @@ This [Tableau report](https://public.tableau.com/app/profile/sandy.g.cabanes/viz
 ## Recording of my presentation of the results to the community: [youtube link](https://www.youtube.com/watch?v=ZalWXSVVasM&t=1463s)
 
 ## Purpose:
-To have a baseline understanding of demographics, work topics, general tools and DEP community concerns. Note that the questiions are tailored towards data-related topics such as data engineering and data analytics.
+To have a baseline understanding of demographics, work topics, general tools and DEP community concerns. Note that the questions are tailored towards data-related topics such as data engineering and data analytics.
 
 ## Action from Results:
 - help the community answer common questions on job opportunities, skills, salaries related to data-related careers
 - help guide future programs and initiatives
-- publish synthetic dataset matching the data profiles, to protect privacy
-- plan to do this annually
+- results will also be published after generating a synthetic dataset matching the data profiles, to protect privacy
+- we plan to do this annually
 
 
 ## Tech stack:
