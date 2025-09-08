@@ -13,7 +13,8 @@ To have a baseline understanding of demographics, work topics, general tools and
 	- Excel and Power Query for main data and initial pivot tables
 	- Power Query for exploding multi-response columns
 	- Python for location data
-- Topline report: ![Google Looker Studio screenshot](Google%20Looker%20Studio%20toplines.PNG)
+- [Topline report: Google Looker Studio](SOTC_2024_Toplines.pdf)
+- ![Google Looker Studio screenshot](Google%20Looker%20Studio%20toplines.PNG)
 - Final report [here](https://public.tableau.com/app/profile/sandy.g.cabanes/viz/survey0309/Home)
 	- Tableau, with joins/ relationships for multiple-response questions
 - Embedded gif:  
