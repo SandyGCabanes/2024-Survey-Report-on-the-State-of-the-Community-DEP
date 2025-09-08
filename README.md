@@ -3,7 +3,7 @@
 
 This [Tableau report](https://public.tableau.com/app/profile/sandy.g.cabanes/viz/survey0309/Home) contains the results of the online survey: State of the Community 2024, conducted among members of the Data Engineering Pilipinas Facebook group.
 
-## Recorded presentation of the results to the community: (https://www.youtube.com/watch?v=ZalWXSVVasM&t=1463s)
+## Recorded presentation of the results to the community: [youtube link](https://www.youtube.com/watch?v=ZalWXSVVasM&t=1463s)
 
 ## Purpose:
 To have a baseline understanding of demographics, work topics, general tools and DEP community concerns. Note that the questiions are tailored towards data-related topics such as data engineering and data analytics.
