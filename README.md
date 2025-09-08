@@ -13,6 +13,7 @@ To have a baseline understanding of demographics, work topics, general tools and
 	- Excel and Power Query for main data and initial pivot tables
 	- Power Query for exploding multi-response columns
 	- Python for location data
+- Topline report: ![Google Looker Studio screenshot](Google%20Looker%20Studio%20toplines.PNG)
 - Final report [here](https://public.tableau.com/app/profile/sandy.g.cabanes/viz/survey0309/Home)
 	- Tableau, with joins/ relationships for multiple-response questions
 - Embedded gif:  
@@ -29,18 +30,3 @@ To have a baseline understanding of demographics, work topics, general tools and
 - plan to do this annually
 
 ## Dashboard format:  Tableau
-
-## Tech stack:
-- Google Forms and Sheets for Data collection
-- Python for map creation into html housed in github pages
-- Initial data processing 
-	- Excel and Power Query for main data and initial pivot tables
-	- Power Query for exploding multi-response columns
-	- Python for location data
-- Topline report: Google Looker Studio  
-- Final report [here](https://public.tableau.com/app/profile/sandy.g.cabanes/viz/survey0309/Home)
-	- Tableau, with joins/ relationships for multiple-response questions
-- Embedded gif:  
-	- gif created using my [python code](https://github.com/SandyGCabanes/mp4_to_gif)
-	- gif embedded in Tableau housed here [github](https://github.com/SandyGCabanes/2024survey_homepage)
-- Website creation:  Gamma.io app [Website here] (https://gamma.app/docs/DEP-SOTC-Survey-2024-o7wjaq3yjcz23yq?mode=doc)
