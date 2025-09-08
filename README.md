@@ -8,11 +8,11 @@ To have a baseline understanding of demographics, work topics, general tools and
 
 ## Tech stack:
 - Google Forms and Sheets for Data collection
-- Python for map creation into html housed in github pages
-- Initial data processing 
+- Data processing 
 	- Excel and Power Query for main data and initial pivot tables
 	- Power Query for exploding multi-response columns
 	- Python for location data
+- Python for map creation into html housed in github pages
 - [Topline report: Google Looker Studio](SOTC_2024_Toplines.pdf)
 - ![Google Looker Studio screenshot](Google%20Looker%20Studio%20toplines.PNG)
 - Final report [here](https://public.tableau.com/app/profile/sandy.g.cabanes/viz/survey0309/Home)
